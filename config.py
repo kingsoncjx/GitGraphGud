@@ -1,4 +1,4 @@
 user = {
-    "name": "nickdehart",
-    "email": "nickdehart@gmail.com"
+    "name": "kingsoncjx",
+    "email": "kschan.2019@smu.edu.sg"
 }
